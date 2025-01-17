@@ -20,8 +20,5 @@ button {
 .box {
     border: 1px solid #000000;
     flex: 0 1 auto;
-}
-
-.box.hover {
-    background-color: #ff0000;
+    opacity: 0;
 }
